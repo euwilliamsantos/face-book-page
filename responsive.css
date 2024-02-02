@@ -70,11 +70,19 @@
 }
 
 
+
+
 @media screen and (max-width:375px) {
-    .textos {
-        margin: 2rem;
+    .conteudo {
+        height: 9px;
+        font-size: 10px;
     }
+
+
 }
+
+
+
 
 @media screen and (max-width:414px) {
     .textos {
