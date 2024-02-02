@@ -68,3 +68,22 @@
         font-size: 12px;
     }
 }
+
+
+@media screen and (max-width:375px) {
+    .textos {
+        margin: 2rem;
+    }
+}
+
+@media screen and (max-width:414px) {
+    .textos {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:360px) {
+    .textos {
+        font-size: 10px;
+    }
+}
