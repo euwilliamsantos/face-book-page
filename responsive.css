@@ -1,0 +1,70 @@
+@media screen and (max-width:920px) {
+    .textos {
+        flex-direction: column;
+    }
+}
+
+
+@media screen and (max-width:390px) {
+    .contform {
+
+        height: auto;
+    }
+
+    .textos {
+        font-size: 10px;
+    }
+
+
+    .email {
+        width: 270px;
+    }
+
+    .senha {
+        width: 270px;
+    }
+
+    .botao {
+        width: 220px;
+    }
+
+    .btn {
+        width: 230px;
+    }
+
+
+
+    .paragrafo {
+        margin: 20px;
+        font-size: 12px;
+    }
+
+}
+
+@media screen and (max-width:320px) {
+
+    .email {
+        width: 270px;
+    }
+
+    .senha {
+        width: 270px;
+    }
+
+    .botao {
+        width: 220px;
+    }
+
+    .btn {
+        width: 230px;
+    }
+
+    .textos {
+        font-size: 10px;
+    }
+
+    .paragrafo {
+        margin: 20px;
+        font-size: 12px;
+    }
+}
